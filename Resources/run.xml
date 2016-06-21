@@ -1,0 +1,20 @@
+﻿<xml>
+  <!-- user account settings -->
+  <admin.username>qa149test</admin.username>
+  <admin.password>qa149testpw</admin.password>
+
+  <!-- browser settings -->
+  <browser>chrome</browser>
+
+  <!-- user account settings -->
+  <username>qa149test</username>
+  <password>qa149testpw</password>
+
+  <!-- parametrs product settings -->
+  <product>Телевизоры</product>
+  <model>Samsung</model>
+  <from_diagonal>39"</from_diagonal>
+  <till_diagonal>42"</till_diagonal>
+  <price>1000</price>
+  <data_entry>2013</data_entry>
+</xml>
